@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m From China.
+- 🔭 I’m From China 🇨🇳🇨🇳.
 - 🌱 I’m Contributor at [Apache Hudi](https://github.com/apache/hudi) .
 
 
