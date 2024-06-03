@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m From China 🇨🇳🇨🇳.
-- 🌱 I’m Contributor at [Apache Hudi](https://github.com/apache/hudi) .
+- 🌱 I’m Contributor at [Apache Hudi](https://github.com/apache/hudi) & [Apache Paimon](https://github.com/apache/paimon).
 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=LinMingQiang&show_icons=true&theme=vue-dark)]()
